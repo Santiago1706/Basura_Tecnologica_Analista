@@ -125,8 +125,8 @@
         <div class="logo">
             <img src="https://ideogram.ai/api/images/direct/meytRf9qReyElsWpi-7jWQ.png" alt="Logo 1">
         </div>
-        <h1>EXPERTO EN IMPACTO AMBIENTAL</h1>
-        <h2>Dilan Velez</h2>
+        <h1>ANALISTA DE TIPOS DE BASURAS TECNOLOGICAS</h1>
+        <h2>CARLOS MARIO LASSO</h2>
         <!-- Menú vertical -->
         <nav class="Menu">
             <ul>
