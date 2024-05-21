@@ -146,94 +146,62 @@
 
     <section id="funcionamiento">
         <h2>Analista de tipos de basura tecnológica</h2>
-        <p><title>Gestión de Residuos de Aparatos Eléctricos y Electrónicos (RAEE) en Cali</title>
+        <p>  <title>Gestión de Residuos de Aparatos Eléctricos y Electrónicos (RAEE)</title>
     <style>
         body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
             color: grey;
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
         }
     </style>
 </head>
 <body>
-    <h1>Gestión de Residuos de Aparatos Eléctricos y Electrónicos (RAEE) en Cali</h1>
-    <p>El reciclaje y reutilización de residuos de aparatos eléctricos y electrónicos (RAEE) es un proceso complejo que implica diversas etapas técnicas y logísticas para asegurar que los materiales recuperados se puedan reincorporar de manera efectiva en la cadena de producción. A continuación, se detalla cómo se lleva a cabo este proceso en Cali:</p>
+    <h1>Gestión de Residuos de Aparatos Eléctricos y Electrónicos (RAEE)</h1>
 
-    <h2>Recogida y Transporte</h2>
+    <h2>Dispositivos Electrónicos Obsoletos</h2>
+    <p>Primero debemos identificar qué son los productos obsoletos. Estos son aquellos que han sido reemplazados por versiones más nuevas o mejores en el mercado. Hay varios tipos de obsolescencia: algunos dispositivos son reemplazados por funcionalidad o incluso por estética. Estos dispositivos están en el grupo de las computadoras, laptops, teléfonos celulares, tabletas, reproductores de música, cámaras, televisores, impresoras y escáneres.</p>
+
+    <h2>Cables y Conectores</h2>
+    <p>Los cables y conectores son componentes fundamentales en el mundo de la tecnología y la electrónica. Esta línea abarca una importante y considerable gama de cables y conectores, como:</p>
     <ul>
-        <li><strong>Puntos de Recogida:</strong> Se establecen puntos específicos donde los consumidores pueden depositar sus dispositivos electrónicos obsoletos. Estos puntos están ubicados en lugares accesibles para facilitar la participación ciudadana.</li>
-        <li><strong>Campañas de Reciclaje:</strong> Se organizan eventos y campañas para fomentar la recogida de RAEE, sensibilizando a la comunidad sobre la importancia del reciclaje.</li>
-        <li><strong>Transporte Especializado:</strong> Los residuos se transportan a instalaciones de reciclaje especializadas utilizando métodos que aseguran la integridad y seguridad de los materiales.</li>
+        <li>Cables de alimentación</li>
+        <li>Cables USB</li>
+        <li>Cables HDMI</li>
+        <li>Cables VGA</li>
+        <li>Cables de red</li>
     </ul>
 
-    <h2>Clasificación y Separación</h2>
+    <h2>Baterías</h2>
+    <p>Las baterías son componentes esenciales en muchos dispositivos electrónicos, pero también pueden convertirse en basura tecnológica cuando se agotan o ya no son útiles. Esto incluye baterías de iones de litio utilizadas en teléfonos móviles, laptops, cámaras y otros dispositivos, así como baterías alcalinas utilizadas en controles remotos, juguetes y otros dispositivos electrónicos.</p>
+
+    <h2>Componentes Electrónicos</h2>
+    <p>Además de los dispositivos electrónicos completos, la basura tecnológica también puede incluir una variedad de componentes electrónicos, como placas de circuito impreso (PCB), chips, resistencias, condensadores y otros componentes utilizados en la fabricación y reparación de dispositivos electrónicos.</p>
+
+    <h2>Dispositivos Electrónicos de Salud</h2>
+    <p>Esto puede abarcar una amplia gama de dispositivos médicos electrónicos, como monitores de presión arterial, dispositivos de medición de glucosa en sangre, dispositivos de terapia física y otros equipos utilizados en el cuidado de la salud que eventualmente necesitan ser desechados.</p>
+
+    <h2>Reflexión Grupal de la Basura Tecnológica o Electrónica en Nuestro Diario Vivir</h2>
+    <p>Nosotros, como generación del futuro y, en algunos casos, como posibles influencias en la vida de nuevas generaciones, hacemos una reflexión sobre lo que está pasando con todos los desechos y aparatos electrónicos de consumo que poco a poco van consumiendo nuestro futuro. Nuestro ambiente se ve fuertemente afectado por estos dispositivos que se vuelven basuras tecnológicas. Sería importante que en el colegio pudiéramos hacer campañas de concientización acerca de los siguientes números que mostraremos a continuación:</p>
+    <p>Según un informe de la Universidad Nacional de Colombia, la producción de desechos electrónicos en el país ha aumentado significativamente en los últimos años, pasando de alrededor de 50,000 toneladas en 2010 a más de 80,000 toneladas en 2019. La rápida innovación tecnológica y la reducción del tiempo de vida de los aparatos, entre otros factores, contribuyen a que estos residuos sean una de las corrientes de mayor crecimiento en el mundo, tanto en los países industrializados como no industrializados, con una tasa de crecimiento anual y global del 5%. En Colombia, la generación de RAEE domésticos en el 2014 se estimó en 252,000 toneladas, equivalente a 5.3 kg por habitante.</p>
+
+    <h2>En Conclusión</h2>
+    <p>Debemos implementar variantes para mejorar esta situación, esto se empieza concientizándonos a nosotros mismos y, como seres sociales y humanos, concientizar nuevas generaciones en busca de una mejor vida ambiental.</p>
+
+    <p>Según la ONU, se estima que se generan alrededor de 53.6 millones de toneladas de desechos electrónicos cada año, y solo una fracción se recicla adecuadamente. Este tipo de basura representa un desafío ambiental y de salud global. Se estima que solo se recicla alrededor del 17.4% de la basura electrónica generada a nivel mundial. Los países de altos ingresos son los mayores generadores de desechos electrónicos per cápita, con una tasa de alrededor de 16.2 kilogramos por persona al año. Se espera que la cantidad de desechos electrónicos aumente a medida que avanza la tecnología, con proyecciones que indican un crecimiento del 8% al 10% anual.</p>
+
+    <h2>Bibliografía</h2>
     <ul>
-        <li><strong>Manual y Mecánica:</strong> En las instalaciones de reciclaje, los RAEE se clasifican de manera manual y mecánica. Se separan según su tipo (por ejemplo, ordenadores, móviles, electrodomésticos) y sus componentes.</li>
-        <li><strong>Identificación de Materiales Peligrosos:</strong> Se identifican y separan los componentes que contienen materiales peligrosos para su tratamiento adecuado.</li>
+        <li><a href="https://www.un.org/es/" target="_blank">Naciones Unidas</a></li>
+        <li><a href="https://www.minambiente.gov.co/asuntos-ambientales-sectorial-y-urbana/residuos-de-aparato-electricos-y-electronicos-raee/" target="_blank">Ministerio de Ambiente y Desarrollo Sostenible de Colombia</a></li>
     </ul>
-
-    <h2>Desmontaje</h2>
-    <ul>
-        <li><strong>Desmontaje Manual:</strong> Los aparatos se desmontan manualmente para recuperar componentes específicos como placas de circuitos, cables, baterías y otros elementos valiosos.</li>
-        <li><strong>Desmontaje Automatizado:</strong> En algunos casos, se utilizan máquinas especializadas para desarmar dispositivos de manera más eficiente.</li>
-    </ul>
-
-    <h2>Tratamiento de Materiales Peligrosos</h2>
-    <ul>
-        <li><strong>Neutralización y Eliminación:</strong> Los materiales peligrosos como mercurio, plomo, cadmio y refrigerantes se tratan mediante procesos químicos y físicos que neutralizan su peligrosidad.</li>
-        <li><strong>Disposición Segura:</strong> Estos materiales se eliminan de manera segura conforme a las regulaciones ambientales.</li>
-    </ul>
-
-    <h2>Reciclaje de Materiales</h2>
-    <ul>
-        <li><strong>Metales Preciosos y Otros Metales:</strong> Los componentes electrónicos se procesan para recuperar metales preciosos (oro, plata, paladio) y otros metales (cobre, aluminio, acero) que se utilizan en la fabricación de nuevos productos.</li>
-        <li><strong>Plásticos y Vidrio:</strong> Los plásticos y vidrios se separan y se trituran para ser reutilizados como materia prima en la producción de nuevos productos.</li>
-        <li><strong>Componentes Electrónicos:</strong> Algunos componentes, como chips y módulos, pueden ser reacondicionados y reutilizados en la fabricación de nuevos dispositivos.</li>
-    </ul>
-
-    <h2>Reutilización</h2>
-    <ul>
-        <li><strong>Reacondicionamiento:</strong> Algunos dispositivos electrónicos pueden ser reparados y reacondicionados para ser vendidos nuevamente. Esto incluye la reparación de ordenadores, teléfonos móviles y otros dispositivos que aún tienen vida útil.</li>
-        <li><strong>Reutilización de Componentes:</strong> Los componentes recuperados que todavía funcionan pueden ser utilizados en la reparación de otros dispositivos o en la fabricación de nuevos productos.</li>
-    </ul>
-
-    <h2>Economía Circular y Sostenibilidad en Cali</h2>
-    <p>La economía circular en el reciclaje de basura electrónica apoya el desarrollo sostenible en Cali mediante diversas estrategias que integran a las industrias locales. Este enfoque no solo ayuda a reducir el impacto ambiental, sino que también impulsa el crecimiento económico y la creación de empleo. Aquí se describen algunos de los principales mecanismos por los cuales la economía circular contribuye al desarrollo sostenible en Cali:</p>
-
-    <h3>Recuperación y Reutilización de Materiales</h3>
-    <ul>
-        <li><strong>Recuperación de Metales y Plásticos:</strong> La basura electrónica contiene metales preciosos (como oro, plata y cobre) y plásticos que pueden ser recuperados y reutilizados en la fabricación de nuevos productos. Las industrias locales que se dedican a la recuperación de estos materiales ayudan a reducir la necesidad de extraer recursos naturales y disminuyen la cantidad de residuos que terminan en vertederos.</li>
-        <li><strong>Industria del Reciclaje:</strong> Empresas de reciclaje en Cali, como la Corporación Autónoma Regional del Valle del Cauca (CVC) y otros actores privados, trabajan en la recolección, clasificación y procesamiento de residuos electrónicos. Esto no solo mejora la eficiencia en el uso de recursos, sino que también crea empleo en el sector de gestión de residuos.</li>
-    </ul>
-
-    <h3>Innovación y Tecnología</h3>
-    <ul>
-        <li><strong>Desarrollo de Tecnologías de Reciclaje:</strong> La inversión en tecnologías avanzadas de reciclaje permite a las industrias locales mejorar la eficiencia y la efectividad de sus procesos de recuperación de materiales. Por ejemplo, el uso de técnicas de separación y clasificación automatizadas puede aumentar la cantidad de materiales recuperados y reducir los costos operativos.</li>
-        <li><strong>Reacondicionamiento y Reparación:</strong> Empresas dedicadas al reacondicionamiento de dispositivos electrónicos juegan un papel crucial en la economía circular. Al reparar y actualizar equipos, estas empresas extienden la vida útil de los productos, reduciendo la demanda de nuevos dispositivos y la generación de residuos.</li>
-    </ul>
-
-    <h3>Educación y Concienciación</h3>
-    <ul>
-        <li><strong>Programas Educativos:</strong> Las campañas de educación y concienciación sobre la importancia del reciclaje y la correcta disposición de residuos electrónicos son fundamentales para fomentar prácticas sostenibles entre los ciudadanos. La Secretaría de Salud Pública Municipal de Cali y otras organizaciones locales implementan programas para educar a la población sobre la separación en la fuente y el reciclaje de RAEE.</li>
-        <li><strong>Iniciativas Comunitarias:</strong> Proyectos comunitarios y colaboraciones entre el gobierno, la academia y el sector privado ayudan a crear una cultura de reciclaje y sostenibilidad. Estas iniciativas pueden incluir talleres, seminarios y programas de reciclaje en escuelas y comunidades.</li>
-    </ul>
-
-    <h3>Regulaciones y Políticas</h3>
-    <ul>
-        <li><strong>Normativas y Planes de Acción:</strong> El gobierno de Cali, a través del Plan de Gestión Integral de Residuos Sólidos (PGIRS), establece políticas y regulaciones para la gestión de residuos electrónicos. Estas normativas incentivan a las empresas a adoptar prácticas sostenibles y cumplir con estándares ambientales.</li>
-        <li><strong>Incentivos Económicos:</strong> Las políticas locales pueden incluir incentivos fiscales y financieros para las empresas que invierten en tecnologías de reciclaje y sostenibilidad. Esto no solo promueve la innovación, sino que también hace que las prácticas sostenibles sean económicamente viables.</li>
-    </ul>
-
-    <h3>Impacto Económico y Social</h3>
-    <ul>
-        <li><strong>Creación de Empleo:</strong> La economía circular en el reciclaje de residuos electrónicos genera empleo en múltiples niveles, desde la recolección y transporte hasta la clasificación y procesamiento de materiales. Esto tiene un impacto positivo en la economía local y contribuye al bienestar social.</li>
-        <li><strong>Desarrollo de Nuevas Industrias:</strong> La demanda creciente de materiales reciclados y productos reacondicionados impulsa el desarrollo de nuevas industrias y oportunidades de negocio en Cali, fomentando un crecimiento económico más sostenible y diversificado.</li>
-    </ul>
-
-    <p>En resumen, la economía circular del reciclaje de residuos electrónicos en Cali apoya el desarrollo sostenible al reducir el impacto ambiental, fomentar la innovación tecnológica, crear empleo y promover prácticas sostenibles. Esto es posible gracias a la colaboración entre el gobierno, las industrias locales y la comunidad, impulsando un modelo de economía que beneficia tanto al medio ambiente como a la sociedad.</p>
-
-    <h2>Fuentes de Información</h2>
-    <p><strong>Sitios Web y Portales Informativos:</strong></p>
-    <ul>
-        <li><strong>Ministerio de Ambiente y Desarrollo Sostenible de Colombia:</strong> Proporciona información sobre políticas y programas nacionales relacionados con la gestión de</p>
+</body></p>
     </section>
 
     <section id="impacto">
