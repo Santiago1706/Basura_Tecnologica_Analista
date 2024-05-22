@@ -139,10 +139,7 @@
         </nav>
     </header>
 
-    <section id="descripcion">
-        <h2>Investigador Principal</h2>
-        <p>Contenido de la descripción del proyecto...</p> 
-    </section>
+   
 
     <section id="funcionamiento">
         <h2>Analista de tipos de basura tecnológica</h2>
@@ -208,10 +205,8 @@
     </ul></p>
     </section>
 
-    <section id="contacto">
-        <h2>Comunicador</h2>
-        <p>Contenido de contacto...</p>
-    </section>
+
+
 
     <!-- Sección para la lista de imágenes -->
     <section class="galery">
