@@ -196,17 +196,16 @@
 
     <p>Según la ONU, se estima que se generan alrededor de 53.6 millones de toneladas de desechos electrónicos cada año, y solo una fracción se recicla adecuadamente. Este tipo de basura representa un desafío ambiental y de salud global. Se estima que solo se recicla alrededor del 17.4% de la basura electrónica generada a nivel mundial. Los países de altos ingresos son los mayores generadores de desechos electrónicos per cápita, con una tasa de alrededor de 16.2 kilogramos por persona al año. Se espera que la cantidad de desechos electrónicos aumente a medida que avanza la tecnología, con proyecciones que indican un crecimiento del 8% al 10% anual.</p>
 
-    <h2>Bibliografía</h2>
-    <ul>
-        <li><a href="https://www.un.org/es/" target="_blank">Naciones Unidas</a></li>
-        <li><a href="https://www.minambiente.gov.co/asuntos-ambientales-sectorial-y-urbana/residuos-de-aparato-electricos-y-electronicos-raee/" target="_blank">Ministerio de Ambiente y Desarrollo Sostenible de Colombia</a></li>
-    </ul>
+   
 </body></p>
     </section>
 
     <section id="impacto">
-        <h2>Experto en impacto ambiental</h2>
-        <p>Contenido del impacto ambiental...</p>
+        <h2>REFERENCIAS</h2>
+        <p> <ul>
+        <li><a href="https://www.un.org/es/" target="_blank">Naciones Unidas</a></li>
+        <li><a href="https://www.minambiente.gov.co/asuntos-ambientales-sectorial-y-urbana/residuos-de-aparato-electricos-y-electronicos-raee/" target="_blank">Ministerio de Ambiente y Desarrollo Sostenible de Colombia</a></li>
+    </ul></p>
     </section>
 
     <section id="contacto">
@@ -216,11 +215,10 @@
 
     <!-- Sección para la lista de imágenes -->
     <section class="galery">
-        <div style="background-image: url('https://ideogram.ai/assets/image/list/response/pEfXHfeZQzKx_UU6RyDqRg');"></div>
-        <div style="background-image: url('https://ideogram.ai/assets/image/list/response/JejUxRTLQsOp6VpD6rOOiQ');"></div>
-        <div style="background-image: url('https://ideogram.ai/assets/image/list/response/hk4b1SxsRmaVC43tHJKaUQ');"></div>
-        <div style="background-image: url('https://ideogram.ai/assets/image/list/response/NRqhMQL8RwGVISAUbabqXw');"></div>
-        <div style="background-image: url('https://ideogram.ai/assets/image/list/response/ny6BjJAeSLSiGAlIDmZHow');"></div>
+        <div style="background-image: url('https://ideogram.ai/api/images/direct/J7vM0D7lR1mzYE1C2YKrvw.jpg');"></div>
+        <div style="background-image: url('https://ideogram.ai/api/images/direct/PMY_HIFDR2ibabKWYNy6Yw.png');"></div>
+        <div style="background-image: url('https://ideogram.ai/api/images/direct/v8r9o2DURfqpogBf29h5RA.png');"></div>
+       
     </section>
 
     <footer>
